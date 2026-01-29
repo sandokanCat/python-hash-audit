@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cabezas Núñez"
+  given-names: "Gonzalo"
+title: "python-hash-audit"
+version: 1.0.0
+date-released: 2026-01-24
+url: "https://github.com/sandokanCat/python-hash-audit"
+license: MIT
+keywords:
+  - python3
+  - hash
+  - dictionary-attack
+  - brute-force
+  - mit-license

@@ -1,0 +1,22 @@
+# Sensitive data
+.*
+_*
+
+# Environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ALLOWED
+!.github/
+!.gitignore

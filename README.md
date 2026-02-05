@@ -186,6 +186,14 @@ Or in JSON mode:
 
 ---
 
+## 🤝 Contributing
+
+[Contributions are welcome!](./CONTRIBUTING.md)
+Keep code **modular, readable, and tested**.
+Pull requests should include a clear description and working example.
+
+---
+
 ## 📝 License
 
 MIT © 2026 [sandokan.cat](https://sandokan.cat)
@@ -193,7 +201,7 @@ MIT © 2026 [sandokan.cat](https://sandokan.cat)
 > *Use it. Modify it. Share it. Attribution is appreciated.*
 
 <div align="center">
-    <a href="https://opensource.org/licenses/MIT">
+    <a href="./LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
     </a>
 </div>

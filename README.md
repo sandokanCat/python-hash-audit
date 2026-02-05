@@ -192,6 +192,12 @@ MIT © 2026 [sandokan.cat](https://sandokan.cat)
 
 > *Use it. Modify it. Share it. Attribution is appreciated.*
 
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    </a>
+</div>
+
 ---
 
 ## 🔮 Planned Features
